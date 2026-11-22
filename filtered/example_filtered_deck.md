@@ -11,6 +11,7 @@
 1x Bilbo Baggins, Burglar // Take a Glance
 1x Bilbo, Luckwearer // Burglar's Plot
 1x Bofur, Reliable Guardian // Concerted Care
+1x Bogslither's Embrace
 1x Bolg of the North
 1x Bombur, Gentle Dreamer
 1x Bothersome Noisemaker
@@ -40,8 +41,10 @@
 3x Hellkite Punisher
 1x Incremental Blight
 1x Interjection
+1x Liliana the Repentant
 1x Mabel, Bitter Recluse
 1x Make Your Move
+1x Masterful Flourish
 1x Meteor Golem
 1x Molting Snakeskin
 1x Moonsilver Spear
@@ -65,6 +68,7 @@
 1x Shimatsu the Bloodcloaked
 3x Siege Rhino
 3x Soldier
+1x Sol Ring
 1x Spark Double
 1x Stockman, Mad Fly-entist
 1x Strago and Relm
@@ -83,6 +87,6 @@
 1x The Ring // The Ring Tempts You
 1x Thopter
 1x Tombstalker
-3x Tura KennerÃ¼d, Skyknight
+3x Tura Kennerüd, Skyknight
 3x Warm Welcome
 1x Zagras, Thief of Heartbeats
